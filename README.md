@@ -6,9 +6,13 @@ A simple Tetris Clone for CS 211
 
 All code is currently found in the application folder.
 
-### Note
+## Installing JavaFX and Running the code
 
-Any commits should be have good messages attached to them.
+To run the code in the command line or an editor you will need to install JavaFX 13.
+
+The following link will take you to documentation on how to do this:
+
+[Getting Started with JavaFX 13](https://openjfx.io/openjfx-docs/)
 
 ## Built With
 
