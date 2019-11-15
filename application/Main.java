@@ -125,7 +125,7 @@ public class Main extends Application {
     }
 
     private void moveOnKeyPress(Block block){
-        scene.setOnKeyPressed(new EventHandler<>() {
+        scene.setOnKeyPressed(new EventHandler<KeyEvent>() {
             @Override
             public void handle(KeyEvent keyEvent) {
                 switch(keyEvent.getCode()){
